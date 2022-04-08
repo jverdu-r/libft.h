@@ -1,2 +1,2 @@
-# libft.h
+# 42_libft.h
 42 school libft proyect
